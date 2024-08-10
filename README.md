@@ -42,7 +42,7 @@ Bu projeye başlamak için aşağıdaki adımları izleyin:
 - **PDF Görüntüleyiciye Erişim:**
   - generate_qr.py dosyasında url'yi bilgisayarınızın IPv4 Adress ine göre düzenlemeniz gerekmektedir. Sadece IPv4 Adressi ni girdikten sonra telefondan qr kodu okutulduğunda erişim sağlanmaktadır. 
   - Oluşturulan QR kodunu telefonunuzla tarayarak mevcut zamana bağlı olarak PDF'yi görüntüleyebilirsiniz.
-  - Alternatif olarak, uygulamayı test etmek için \`http://localhost:5000/menu\` adresini ziyaret edebilirsiniz.
+  - Alternatif olarak, uygulamayı test etmek için \`http://localhost:5000/menu` adresini ziyaret edebilirsiniz.
 
 ## Dosya Yapısı
 
