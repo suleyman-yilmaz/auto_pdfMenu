@@ -23,10 +23,8 @@ Bu projeye başlamak için aşağıdaki adımları izleyin:
 
 1. **Depoyu Klonlayın**
 ```bash
-git clone https://github.com/suleyman-yilmaz/auto_pdfMenu.git
+ git clone https://github.com/suleyman-yilmaz/auto_pdfMenu.git
 ```
-- cd auto_pdfMenu
-
 
 2. **Bağımlılıkları Yükleyin**
 -	pip install Flask
@@ -44,7 +42,7 @@ git clone https://github.com/suleyman-yilmaz/auto_pdfMenu.git
 
 - **PDF Görüntüleyiciye Erişim:**
   - Oluşturulan QR kodunu telefonunuzla tarayarak mevcut zamana bağlı olarak PDF'yi görüntüleyebilirsiniz.
-  - Alternatif olarak, uygulamayı test etmek için \`http://localhost:5000/menu\` adresini ziyaret edebilirsiniz.
+  - Alternatif olarak, uygulamayı test etmek için \`http://localhost:5000/menu` adresini ziyaret edebilirsiniz.
 
 ## Dosya Yapısı
 
