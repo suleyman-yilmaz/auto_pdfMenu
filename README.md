@@ -15,7 +15,7 @@ Bu projeye başlamak için aşağıdaki adımları izleyin:
 
 ### Gereksinimler
 
-- Python 3.x
+- Python 3.12
 - Flask
 - qrcode (QR kodları oluşturmak için Python kütüphanesi)
 
