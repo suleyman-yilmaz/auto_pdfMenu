@@ -22,7 +22,7 @@ Bu projeye başlamak için aşağıdaki adımları izleyin:
 ## Kurulum
 
 1. **Depoyu Klonlayın**
-- git clone https://github.com/yourusername/auto_pdfMenu.git
+- git clone https://github.com/suleyman-yilmaz/auto_pdfMenu.git
 - cd auto_pdfMenu
 
 
