@@ -5,9 +5,9 @@
 
 # Features
 
-- Time Based PDF Display:** Shows different PDF files before and after 12:00.
-- QR Code Generation:** Generates a QR code that links to the PDF viewer.
-- Direct PDF Viewing:** Opens PDFs directly in the browser, no download.
+- **Time Based PDF Display:** Shows different PDF files before and after 12:00.
+- **QR Code Generation:** Generates a QR code that links to the PDF viewer.
+- **Direct PDF Viewing:** Opens PDFs directly in the browser, no download.
 
 ## Getting Started
 
@@ -34,21 +34,21 @@ Follow the steps below to start this project:
 3. **Run the App**
 - python app.py
 
-  The application will be available at \`http://localhost:5000/menu`.
+  The application will be available at http://localhost:5000/menu
 
 
 ## Usage
 
 - **Access to PDF Viewer:**
-  - In the generate_qr.py file, you need to edit the url according to the IPv4 Address of your computer. Access is provided only when the qr code is scanned from the phone after entering the IPv4 Address. 
+  - **In the generate_qr.py file, you need to edit the url according to the IPv4 Address of your computer. Access is provided only when the qr code is scanned from the phone after entering the IPv4 Address.** 
   - You can scan the generated QR code with your phone and view the PDF depending on the time available.
-  - Alternatively, you can visit \`http://localhost:5000/menu` to test the application.
+  - Alternatively, you can visit http://localhost:5000/menu to test the application.
 
 ## File Structure
 
-- \``app.py\`: Main Flask application file.
-- \``generate_qr.py\`: Script to generate the QR code.
-- \``static/\`: Directory with PDF files (\``morning.pdf\`, \`afternoon.pdf\`).
+- **app.py:** Main Flask application file.
+- **generate_qr.py:** Script to generate the QR code.
+- **static:** Directory with PDF files (morning.pdf, afternoon.pdf).
 
 
 ## Contributing
@@ -101,21 +101,21 @@ Bu projeye başlamak için aşağıdaki adımları izleyin:
 3. **Uygulamayı Çalıştırın**
 - python app.py
 
-  Uygulama \`http://localhost:5000/menu` adresinde kullanılabilir olacaktır.
+  Uygulama http://localhost:5000/menu adresinde kullanılabilir olacaktır.
 
 
 ## Kullanım
 
 - **PDF Görüntüleyiciye Erişim:**
-  - generate_qr.py dosyasında url'yi bilgisayarınızın IPv4 Adress ine göre düzenlemeniz gerekmektedir. Sadece IPv4 Adressi ni girdikten sonra telefondan qr kodu okutulduğunda erişim sağlanmaktadır. 
+  - **generate_qr.py dosyasında url'yi bilgisayarınızın IPv4 Adress ine göre düzenlemeniz gerekmektedir. Sadece IPv4 Adressi ni girdikten sonra telefondan qr kodu okutulduğunda erişim sağlanmaktadır.** 
   - Oluşturulan QR kodunu telefonunuzla tarayarak mevcut zamana bağlı olarak PDF'yi görüntüleyebilirsiniz.
-  - Alternatif olarak, uygulamayı test etmek için \`http://localhost:5000/menu` adresini ziyaret edebilirsiniz.
+  - Alternatif olarak, uygulamayı test etmek için http://localhost:5000/menu adresini ziyaret edebilirsiniz.
 
 ## Dosya Yapısı
 
-- \`app.py\`: Ana Flask uygulama dosyası.
-- \`generate_qr.py\`: QR kodunu oluşturma betiği.
-- \`static/\`: PDF dosyalarının bulunduğu dizin (\`morning.pdf\`, \`afternoon.pdf\`).
+- **app.py:** Ana Flask uygulama dosyası.
+- **generate_qr.py:** QR kodunu oluşturma betiği.
+- **static:** PDF dosyalarının bulunduğu dizin (morning.pdf, afternoon.pdf).
 
 
 ## Katkıda Bulunma
