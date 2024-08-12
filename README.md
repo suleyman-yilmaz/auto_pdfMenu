@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [qrcode](https://pypi.org/project/qrcode/)
-
+<br><br>
 
 # TR - auto_pdfMenu
 
